@@ -6,3 +6,4 @@ So far ~~"I"~~ AI made:
 - A Snake Game
 - A Calculator
 - A Notepad
+- Minesweeper - sorta bad
